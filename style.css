@@ -184,7 +184,7 @@ aside a:hover {
 aside ul {
 list-style-position: inside;
 columns: 2;
-list-style-type:
+
 } 
 aside h3 {
     background-color: var(--cor05);
