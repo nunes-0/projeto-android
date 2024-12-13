@@ -101,7 +101,8 @@ text-shadow: 2px 2px 0px black;   /* acrescenta sombra em baixo da caixa     */
 nav {
     background-color:var(--cor05);
     padding: 10px;
-    box-shadow: 0px 7px 7px rgba(0, 0, 0, 0.363); 
+    box-shadow: 0px 7px 7px rgba(0, 0, 0, 0.363);
+   
 }
 nav a {
 color: white;
